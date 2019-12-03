@@ -1,4 +1,4 @@
-ROM gitpod/workspace-full
+gitpod/workspace-full
 
 USER root
 
